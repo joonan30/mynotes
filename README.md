@@ -6,6 +6,6 @@ This is a blog.
 
 Life is good. 
 
-[2019/09/16](https://raw.githubusercontent.com/joonan30/mynotes/master/20190916_note.md)
+[2019/09/16](https://github.com/joonan30/mynotes/blob/master/20190916_note.md)
 
 Hello
